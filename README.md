@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **.NET**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Vue.js**
 
 - 💬 Ask me about **.Net, Java**
 
