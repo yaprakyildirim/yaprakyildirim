@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaprak Yıldırım</h1>
 <h3 align="center">A .NET Backend Developer passionate about building scalable, high-performance applications</h3>
 
-- 🔭 I’m currently working with **.NET 6/7/8, ASP.NET Core, and Microservices**
+- 🔭 I’m currently working with **.NET, ASP.NET Core, and Microservices**
 - 🌱 I’m currently learning **Docker, Kubernetes, Advanced System Design, Python, Vue.js, and React**
 - 💬 Ask me about **.NET, C#, RESTful APIs, RabbitMQ, SignalR, and Cloud Solutions**
 - 📫 How to reach me **mrsyaprakyildirim@gmail.com**
